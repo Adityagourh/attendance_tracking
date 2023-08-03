@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-let empLeavesSchema = new mongoose.Schema({
+let empLeaveSchema = new mongoose.Schema({
     totalLeaves: {
         type : String ,
         required :true, 
@@ -35,6 +35,6 @@ let empLeavesSchema = new mongoose.Schema({
         default: true,
     },
 });
-empLeavesSchema.set("timestamps", true);
+empLeaveSchema.set("timestamps", true);
 
-module.exports = mongoose.model("leaves", empLeavesSchema);
+module.exports = mongoose.model("leaves", empLeaveSchema);

@@ -1,0 +1,85 @@
+level : info: Aug-02-2023 17:08:08:	Employee login successfully
+level : error: Aug-02-2023 17:08:61:	Wrong email or password
+level : info: Aug-02-2023 18:08:77:	Employee registered successfully
+level : error: Aug-02-2023 18:08:98:	userData is not defined
+level : error: Aug-02-2023 18:08:33:	isEmpExists is not defined
+level : info: Aug-02-2023 18:08:96:	Employee login successfully
+level : info: Aug-02-2023 18:08:48:	Employee login successfully
+level : info: Aug-02-2023 18:08:22:	Employee login successfully
+level : info: Aug-02-2023 18:08:07:	Employee login successfully
+level : info: Aug-02-2023 18:08:76:	Employee login successfully
+level : info: Aug-02-2023 18:08:56:	Employee login successfully
+level : info: Aug-02-2023 18:08:37:	Employee login successfully
+level : info: Aug-02-2023 18:08:12:	Employee login successfully
+level : info: Aug-02-2023 18:08:89:	Employee login successfully
+level : info: Aug-02-2023 18:08:60:	Employee login successfully
+level : info: Aug-02-2023 18:08:36:	Employee login successfully
+level : info: Aug-02-2023 18:08:13:	Employee login successfully
+level : info: Aug-02-2023 18:08:95:	Employee login successfully
+level : info: Aug-02-2023 18:08:98:	Employee login successfully
+level : info: Aug-02-2023 18:08:80:	Employee login successfully
+level : info: Aug-02-2023 18:08:61:	Employee login successfully
+level : info: Aug-02-2023 18:08:38:	Employee login successfully
+level : info: Aug-02-2023 18:08:16:	Employee login successfully
+level : info: Aug-02-2023 18:08:92:	Employee login successfully
+level : info: Aug-02-2023 18:08:76:	Employee login successfully
+level : error: Aug-02-2023 18:08:14:	path is not defined
+level : error: Aug-02-2023 18:08:42:	path is not defined
+level : error: Aug-02-2023 18:08:33:	path is not defined
+level : info: Aug-02-2023 18:08:32:	Employee registered successfully
+level : error: Aug-02-2023 18:08:50:	Employee already exists
+level : info: Aug-02-2023 18:08:80:	Employee registered successfully
+level : info: Aug-02-2023 18:08:46:	Employee login successfully
+level : error: Aug-02-2023 18:08:17:	Wrong email address
+level : error: Aug-02-2023 18:08:60:	Wrong email address
+level : error: Aug-02-2023 18:08:17:	Wrong email address
+level : error: Aug-02-2023 18:08:97:	Wrong email address
+level : error: Aug-02-2023 18:08:54:	Wrong email address
+level : info: Aug-02-2023 18:08:41:	Employee login successfully
+level : info: Aug-03-2023 11:08:35:	Employee registered successfully
+level : info: Aug-03-2023 11:08:08:	Password reset successfully
+level : info: Aug-03-2023 11:08:62:	Password reset successfully
+level : error: Aug-03-2023 16:08:20:	isEmpExist is not a function
+level : error: Aug-03-2023 16:08:71:	Employee already exists
+level : error: Aug-03-2023 16:08:23:	Employee already exists
+level : error: Aug-03-2023 16:08:52:	Employee already exists
+level : error: Aug-03-2023 17:08:85:	Employee already exists
+level : error: Aug-03-2023 17:08:100:	Employee already exists
+level : error: Aug-03-2023 17:08:19:	Employee already exists
+level : error: Aug-03-2023 17:08:09:	Employee already exists
+level : error: Aug-03-2023 17:08:19:	Employee already exists
+level : error: Aug-03-2023 17:08:13:	Employee already exists
+level : error: Aug-03-2023 17:08:48:	Employee already exists
+level : error: Aug-03-2023 17:08:32:	Employee already exists
+level : error: Aug-03-2023 17:08:44:	Employee already exists
+level : error: Aug-03-2023 17:08:44:	Employee already exists
+level : error: Aug-03-2023 17:08:46:	Employee already exists
+level : error: Aug-03-2023 17:08:23:	Employee already exists
+level : error: Aug-03-2023 17:08:52:	Employee already exists
+level : error: Aug-03-2023 17:08:83:	Employee already exists
+level : error: Aug-03-2023 17:08:31:	Employee already exists
+level : error: Aug-03-2023 17:08:93:	employeeDetails is not defined
+level : info: Aug-03-2023 17:08:06:	Employee register successfully
+level : error: Aug-03-2023 17:08:80:	Employee already exists
+level : error: Aug-03-2023 17:08:20:	Employee already exists
+level : info: Aug-03-2023 17:08:07:	Employee register successfully
+level : error: Aug-03-2023 17:08:86:	Employee already exists
+level : info: Aug-03-2023 17:08:07:	Employee register successfully
+level : error: Aug-03-2023 17:08:18:	Wrong email address
+level : error: Aug-03-2023 17:08:49:	Wrong email address
+level : error: Aug-03-2023 17:08:20:	Wrong email address
+level : error: Aug-03-2023 17:08:99:	data and hash arguments required
+level : error: Aug-03-2023 17:08:08:	data and hash arguments required
+level : error: Aug-03-2023 17:08:24:	data and hash arguments required
+level : error: Aug-03-2023 18:08:94:	data and hash arguments required
+level : error: Aug-03-2023 18:08:56:	data and hash arguments required
+level : error: Aug-03-2023 18:08:93:	data and hash arguments required
+level : error: Aug-03-2023 18:08:14:	bcrypt is not defined
+level : error: Aug-03-2023 18:08:50:	bcrypt is not defined
+level : error: Aug-03-2023 18:08:68:	req is not defined
+level : error: Aug-03-2023 18:08:69:	Wrong email address
+level : error: Aug-03-2023 18:08:48:	empExists is not defined
+level : error: Aug-03-2023 18:08:06:	jwt is not defined
+level : info: Aug-03-2023 18:08:73:	Employee login successfully
+level : info: Aug-03-2023 18:08:15:	Employee login successfully
+level : info: Aug-03-2023 18:08:11:	Employee login successfully

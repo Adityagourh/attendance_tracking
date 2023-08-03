@@ -1,4 +1,4 @@
-let express = require('express');
+let express = require("express");
 let router = require("./empRoutes");
 
 let mainRoutes = express.Router();

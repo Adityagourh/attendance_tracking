@@ -23,16 +23,16 @@ let employeeSchema = new mongoose.Schema({
     },
     empAddress: {
         type : String , 
-        required: true,
+        default : "",
     },
     empCity: {
         type : String , 
         required: true,
     },
-    // empImage: {
-    //     type : String , 
-    //     required: true,
-    // },
+    profilePic: {
+        type : String , 
+        // ?: true,
+    },
     isActive: {
         type : String , 
         default: true,

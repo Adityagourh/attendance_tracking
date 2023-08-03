@@ -1,6 +1,6 @@
 require("dotenv").config();
 require("./config/modelConfig");
-const logger = require("./utils/empLogger")
+const logger = require("./utils/empSystemLogger")
 const express = require('express');
 const mainRouter = require('./routes/mainRoutes');
 const app = express();
