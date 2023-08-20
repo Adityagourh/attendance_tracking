@@ -11,7 +11,7 @@ const tokenVerification = async (req, res, next) => {
           message: "Token expire please Login aganin",
         });
       } else {
-        req.user = decoded.userData;
+        // req.user = decoded.userData;
         next();
       }
     });

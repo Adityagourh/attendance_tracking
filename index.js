@@ -2,11 +2,13 @@ require("dotenv").config();
 require("./config/modelConfig");
 const logger = require("./utils/empSystemLogger")
 const express = require('express');
-const mainRouter = require('./routes/mainRoutes');
+const urls = require('./urls');
 const app = express();
 
 app.use(express.json())
-app.use('/', mainRouter)
+app.use('/', urls)
+
+//Listener 
 app.listen(process.env.PORT, (req, res)=>{
-    logger.info(`Listener is working on port ${process.env.PORT}`);
+    logger.info(`Server is running on port ${process.env.PORT}`);
 })

@@ -3,12 +3,11 @@ const mongoose = require('mongoose');
 let empNotificationSchema = new mongoose.Schema({
     title: {
         type : String ,
-        required :true, 
+        default : "", 
     },
-   
     message: {
         type : String , 
-        required: true,
+        default : "",
     },
     empId: {
         type: mongoose.Types.ObjectId,

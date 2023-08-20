@@ -5,8 +5,8 @@ mongoose.connect(process.env.URL, {
   useNewUrlParser: "true",
 });
 mongoose.connection.on("error", (err) => {
-  logger.log(`error`, "mongoose Connection Error")
+  logger.log(`error`, "mongoose Connection Error");
 });
 mongoose.connection.on("connected", (err, res) => {
-  logger.log('info', "Mongoose is connected");
-}); 
+  logger.log("info", "Mongoose is connected");
+});

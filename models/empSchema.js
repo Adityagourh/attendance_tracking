@@ -29,9 +29,17 @@ let employeeSchema = new mongoose.Schema({
         type : String , 
         required: true,
     },
+    empRole : {
+        type :String ,
+        default : "employee",
+    },
     profilePic: {
         type : String , 
         // ?: true,
+    },
+    empWorkingStatus: {
+        type : String , 
+        default : "working", 
     },
     isActive: {
         type : String , 

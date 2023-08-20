@@ -4,7 +4,7 @@ require("winston-mongodb");
 const empLogger = createLogger({
   transports: [
     new transports.File({
-      filename: "logs/emp_info.log",
+      filename: "logs/admin_info.log",
       level: "info",
       maxsize: 5242880,
       format: format.combine(
@@ -16,7 +16,7 @@ const empLogger = createLogger({
       ),
     }),
     new transports.File({
-      filename: "logs/emp_error.log",
+      filename: "logs/admin_error.log",
       level: "error",
       maxsize: 5242880,
       format: format.combine(

@@ -48,3 +48,19 @@ level : error: Aug-03-2023 18:08:68:	req is not defined
 level : error: Aug-03-2023 18:08:69:	Wrong email address
 level : error: Aug-03-2023 18:08:49:	empExists is not defined
 level : error: Aug-03-2023 18:08:06:	jwt is not defined
+level : error: Aug-08-2023 17:08:40:	Employee already exists
+level : error: Aug-09-2023 18:08:54:	Employee already exists
+level : error: Aug-09-2023 18:08:11:	Employee already exists
+level : error: Aug-09-2023 18:08:47:	Employee already exists
+level : error: Aug-09-2023 18:08:43:	Employee already exists
+level : error: Aug-09-2023 18:08:23:	Wrong email address
+level : error: Aug-09-2023 18:08:01:	Employee already exists
+level : error: Aug-09-2023 18:08:12:	Wrong email address
+level : error: Aug-09-2023 18:08:72:	Wrong email address
+level : error: Aug-09-2023 21:08:13:	Employee already exists
+level : error: Aug-10-2023 17:08:41:	Invalid role specified
+level : error: Aug-10-2023 17:08:99:	Email send failed
+level : error: Aug-14-2023 17:08:54:	Employee already exists
+level : error: Aug-16-2023 15:08:78:	Employee already exists
+level : error: Aug-16-2023 15:08:85:	Employee already exists
+level : error: Aug-16-2023 15:08:21:	Employee already exists
